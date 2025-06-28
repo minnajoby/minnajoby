@@ -10,7 +10,7 @@
 
 - 👩‍🎓 Currently pursuing *Master of Computer Applications (MCA)* at *RIT Kottayam*
 - 🎓 Completed *BSc in Physics*
-- 💼 Completed internship at *I Hub Foundation*
+- 💼 Completed internship at *IIT Palakkad I-Hub Foundation*
 - 👨‍💻 Exploring *Web Development, Python, DBMS, and Java*
 - 📊 Passionate about *Data Science* and *Data Analytics*
 - 🚀 Love building projects that solve real-world problems
@@ -23,7 +23,7 @@
 - 🌐 Web: HTML, CSS, JavaScript
 - 📊 Tools & Tech: Pandas, NumPy, Matplotlib, Seaborn, Jupyter, Excel
 - 🗄️ Database: MySQL, MongoDB
-- 🔧 Tools: VS Code, Git, GitHub, MySQL Workbench, NetBeans
+- 🔧 Tools: VS Code, Git, GitHub, MySQL
 
 ---
 
