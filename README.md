@@ -21,7 +21,7 @@
 
 - 💻 Languages: C, C++, Python, Java, SQL
 - 🌐 Web: HTML, CSS, JavaScript
-- 📊 Tools & Tech: Pandas, NumPy, Matplotlib, Seaborn, Jupyter, Excel
+- 📊 Tools & Tech: Kaggle,Tableau,Google Sheets,Excel,Rstudio
 - 🗄️ Database: MySQL, MongoDB
 - 🔧 Tools: VS Code, Git, GitHub, MySQL
 
