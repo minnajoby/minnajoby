@@ -1,22 +1,67 @@
-<h1 align="center">Hi 👋, I'm Minna Joby</h1>
-<h3 align="center">Aspiring Full Stack Developer & Data Analyst | MCA Student @RIT Kottayam</h3>
+<h1 align="center">Hi there 👋, I'm Minna Joby</h1>
 
-- 🌱 I’m currently learning **to improve my skills in Python,Java and Data Analytics. Building small projects using HTML, CSS, JavaScript, and practicing SQL and Excel for data-driven tasks.**
-
-- 📫 How to reach me **minnajoby27@gmail.com**
-
-- 📄 Know about my experiences [About.me](About.me)
-
-- ⚡ Fun fact **I think i'm learning**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/minnajoby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minnajoby" height="30" width="40" /></a>
-<a href="https://kaggle.com/minnajoby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="minnajoby" height="30" width="40" /></a>
-<a href="https://fb.com/minnajoby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minnajoby" height="30" width="40" /></a>
-<a href="https://instagram.com/minnajoby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minnajoby" height="30" width="40" /></a>
+<p align="center">
+🎓 MCA Student | 💡 Tech Enthusiast | 💻 Aspiring Developer | 📊 Data Science & Analytics Enthusiast  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+### 🔍 About Me
+
+- 👩‍🎓 Currently pursuing *Master of Computer Applications (MCA)* at *RIT Kottayam*
+- 🎓 Completed *BSc in Physics*
+- 💼 Completed internship at *I Hub Foundation*
+- 👨‍💻 Exploring *Web Development, Python, DBMS, and Java*
+- 📊 Passionate about *Data Science* and *Data Analytics*
+- 🚀 Love building projects that solve real-world problems
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- 💻 Languages: C, C++, Python, Java, SQL
+- 🌐 Web: HTML, CSS, JavaScript
+- 📊 Tools & Tech: Pandas, NumPy, Matplotlib, Seaborn, Jupyter, Excel
+- 🗄️ Database: MySQL, MongoDB
+- 🔧 Tools: VS Code, Git, GitHub, MySQL Workbench, NetBeans
+
+---
+
+### 📚 GitHub Repositories
+
+Here’s where I upload all my lab works, mini projects, and experiments 👇  
+➡️ Explore them and feel free to fork or star ⭐
+
+🧪 *Semester Labs:*  
+- [Python Lab (S1)](https://github.com/minnajoby/Python_lab_S1)  
+- [Data Structure Lab (S1)](https://github.com/minnajoby/Data_structure_lab_S1)  
+- [Web Lab (S1)](https://github.com/minnajoby/Web_lab_S1)  
+- [DBMS Lab (S2)](https://github.com/minnajoby/DBMS_lab_S2)  
+- [OOPs Lab (S2)](https://github.com/minnajoby/Oops_lab_S2)
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: [minnajoby27@gmail.com](mailto:minnajoby27@gmail.com)  
+- 🔗 LinkedIn: [Minna Joby](https://www.linkedin.com/in/minna-joby-0a8b8a275)  
+- 🧠 GitHub: [github.com/minnajoby](https://github.com/minnajoby)
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minnajoby&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnajoby&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minnajoby&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+<p align="center">
+✨ Keep exploring, keep learning, and keep building! ✨
+</p>
