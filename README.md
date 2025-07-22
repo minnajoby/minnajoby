@@ -19,10 +19,10 @@
 
 ### 🛠️ Tech Stack & Tools
 
-- 💻 Languages: C, C++, Python, Java, SQL
+- 💻 Languages: Python, Java, SQL
 - 🌐 Web: HTML, CSS, JavaScript
 - 📊 Tools & Tech: Kaggle,Tableau,Google Sheets,Excel,Rstudio
-- 🗄️ Database: MySQL, MongoDB
+- 🗄️ Database: MySQL, MongoDB 
 - 🔧 Tools: VS Code, Git, GitHub, MySQL
 
 ---
