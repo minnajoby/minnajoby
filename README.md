@@ -23,7 +23,7 @@
 - 🌐 Web: HTML, CSS, JavaScript
 - 📊 Tools & Tech: Kaggle,Tableau,Google Sheets,Excel,Rstudio
 - 🗄️ Database: MySQL, MongoDB 
-- 🔧 Tools: VS Code, Git, GitHub, MySQL
+- 🔧 Tools: VS Code, Git, GitHub
 
 ---
 
@@ -49,15 +49,15 @@ Here’s where I upload all my lab works, mini projects, and experiments 👇
 
 ---
 
-### 🔥 GitHub Stats
+### 🔥 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minnajoby&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnajoby&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minnajoby&show_icons=true&theme=radical" alt="Minna's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnajoby&theme=radical" alt="Minna's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minnajoby&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minnajoby&layout=compact&theme=radical" alt="Minna's Top Languages" width="48%" />
 </p>
 
 ---
