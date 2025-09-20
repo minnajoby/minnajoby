@@ -1,23 +1,31 @@
 # 👋 Hi, I'm Minna Joby
 
-🎓 MCA | 🔬 Physics Graduate | 💻 Data Science & Software Development Enthusiast
+🎓 MCA Student | 🔬 Physics Graduate | 💻 Data Science & Software Development Enthusiast
 
 ---
 
 ## 💡 About Me
-I love **exploring data, building smart solutions, and turning ideas into code**.  
-With a strong foundation in **Python, SQL, Django, and machine learning**, I enjoy solving real-world problems with **data-driven insights**.  
+I am passionate about **Data Science, Data Analytics, and Software Development**, with a strong academic background in **Physics and Computer Applications**.  
+I enjoy **extracting insights from data, building practical solutions, and learning new technologies**.  
+Currently exploring **machine learning, web development, and data visualization**, aiming to create **impactful, data-driven projects**.  
 
 ---
 
 ## 🛠️ Skills & Tools
-`Python` • `Java` • `SQL` • `Django` • `Bootstrap` • `PostgreSQL` • `Git` • `NumPy` • `Pandas` • `Scikit-learn` • `Data Visualization`
+**Programming & Development:** Python | Java | SQL | HTML/CSS | JavaScript  
+**Frameworks & Libraries:** Django | Bootstrap | NumPy | Pandas | Scikit-learn  
+**Databases & Tools:** PostgreSQL | MySQL | Git | GitHub | VS Code  
+**Data & Analytics:** Data Cleaning | Data Visualization | Statistical Analysis | Machine Learning  
 
 ---
 
 ## 🚀 Featured Project
 **PrepScore: Career Profile Optimizer**  
-A **Django web app** with **PostgreSQL** backend that leverages **machine learning** to calculate career readiness scores and provide **personalized insights**.  
+A **Django web application** with **PostgreSQL backend** that leverages **machine learning** to calculate **career readiness scores** and provide **personalized suggestions**.  
+- Developed **user registration and login** for secure access  
+- Designed **interactive dashboards** for visual insights  
+- Integrated **ML models** to assess skills, academics, and certifications  
+- Managed version control with **Git**  
 
 ---
 
@@ -27,4 +35,4 @@ A **Django web app** with **PostgreSQL** backend that leverages **machine learni
 
 ---
 
-✨ *“Data tells a story, and I help bring it to life.”*
+✨ *“Turning data into actionable insights, and ideas into real-world solutions.”*
