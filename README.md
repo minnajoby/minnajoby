@@ -50,7 +50,6 @@ I'm a **Master of Computer Applications (MCA)** student specializing in **Data S
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -95,7 +94,6 @@ I'm a **Master of Computer Applications (MCA)** student specializing in **Data S
 
 | Certificate | Issuer | Date |
 |---|---|---|
-| Python for Data Science, AI & Development | IBM | Apr 2026 |
 | Google Data Analytics | Google | June 2025 |
 | Database Management System | NPTEL | Jan–Mar 2025 |
 
