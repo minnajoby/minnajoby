@@ -117,9 +117,13 @@ A database-driven banking application built using Python and MySQL.
 
 📜 NPTEL Database Management Systems
 
-📜 Python Data Science, ML, AI, Gen AI, AWS & Power BI (Luminar Technolab)
-
 ---
+
+## 📚 Professional Training
+
+🎓 Python Data Science, Machine Learning, AI, Generative AI, AWS & Power BI
+
+Luminar Technolab (Ongoing)
 
 <p align="center">
   <em>"Passionate about learning, building, and growing through technology."</em>
